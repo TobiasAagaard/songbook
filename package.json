@@ -1,0 +1,22 @@
+{
+  "name": "songbook",
+  "version": "1.0.0",
+  "description": "songbook api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasAagaard/songbook.git"
+  },
+  "author": "Tobias Aagaard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiasAagaard/songbook/issues"
+  },
+  "homepage": "https://github.com/TobiasAagaard/songbook#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
